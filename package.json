@@ -1,0 +1,23 @@
+{
+  "name": "newnode",
+  "version": "1.0.0",
+  "description": "Basic App ton Deploy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "nodejs"
+  },
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "author": "Vaibhav singh",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0"
+  }
+}
